@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Matrix_addition {
+public class Matrix_multiplication {
     public static void main(String[] args){
         Scanner input = new Scanner(System.in);
         int arr1[][], arr2[][], arr3[][], row1, column1_row2, column2;
