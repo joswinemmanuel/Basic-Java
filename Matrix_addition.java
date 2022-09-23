@@ -46,3 +46,33 @@ public class Matrix_addition {
         }
     }
 }
+
+/*
+Enter the number of rows : 3
+Enter the number of columns : 3
+
+Enter the value of arr1[0][0] : 1
+Enter the value of arr1[0][1] : 2
+Enter the value of arr1[0][2] : 3
+Enter the value of arr1[1][0] : 4
+Enter the value of arr1[1][1] : 1
+Enter the value of arr1[1][2] : 2
+Enter the value of arr1[2][0] : 3
+Enter the value of arr1[2][1] : 4
+Enter the value of arr1[2][2] : 1
+
+Enter the value of arr2[0][0] : 1
+Enter the value of arr2[0][1] : 2
+Enter the value of arr2[0][2] : 3
+Enter the value of arr2[1][0] : 4
+Enter the value of arr2[1][1] : 1
+Enter the value of arr2[1][2] : 2
+Enter the value of arr2[2][0] : 3
+Enter the value of arr2[2][1] : 4
+Enter the value of arr2[2][2] : 1
+
+Sum of arr1 and arr2 is
+2 4 6
+8 2 4
+6 8 2
+*/
