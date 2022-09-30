@@ -75,7 +75,7 @@ public class String_functions {
         //        Hey
         System.out.println();
 
-        // 5) equal()
+        // 5) equals()
         s1 = "hello";
         s2 = "hello";
         System.out.println(s1.equals(s2));
@@ -85,14 +85,14 @@ public class String_functions {
         // false
         System.out.println();
 
-        // 6) equalIsIgnoreCase()
+        // 6) equalsIgnoreCase()
         s1 = "hello";
         s2 = "hello";
         System.out.println(s1.equals(s2));
         // true
         s2 = "HELLO";
-        System.out.println(s1.equals(s2));
-        // false
+        System.out.println(s1.equalsIgnoreCase(s2));
+        // true
         System.out.println();
 
         // 7) length()
@@ -122,7 +122,7 @@ public class String_functions {
         // -32 , as s1 < s2
         System.out.println();
 
-        // 10) concatenate()
+        // 10) concat()
         s1 = "Joswin";
         s2 = "Emmanuel";
         System.out.println(s1.concat(s2));
