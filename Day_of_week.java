@@ -1,3 +1,4 @@
+// day of week
 public class Day_of_week {
     public static void main(String[] args){
         int n = 5;
