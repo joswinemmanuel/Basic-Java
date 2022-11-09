@@ -17,4 +17,4 @@ public class Bubble_sort {
     }
 }
 
-// 1 2 4 10 21 32 
+// 1 2 4 10 21 32  
