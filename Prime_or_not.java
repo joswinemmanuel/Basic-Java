@@ -16,4 +16,4 @@ public class Prime_or_not {
     }
 }
 
-// Prime number
+// Prime number. 
